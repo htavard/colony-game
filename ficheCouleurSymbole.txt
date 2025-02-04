@@ -1,0 +1,18 @@
+Couleurs : 
+
+Curseur : Red ↓
+Grille : DarkGray
+Foret : Green ♣
+Rivière : Blue ▒
+
+village : ⌂
+Botaniste : Cyan ζ
+Bucheronne : DarkYellow ξ
+Combattante : DarkRed π
+Cuisiniere :  DarkBlue σ
+Guerisseuse : White Σ
+Jardinière : DarkGreen Φ
+Mineuse : Blue θ
+Occultiste :  Magenta  Ω
+Laboratoire : ♦
+Usine : ☼

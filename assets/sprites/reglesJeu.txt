@@ -1,0 +1,80 @@
+Bienvenue dans notre jeu 100% féministe <3 !
+
+Nous allons ici vous expliquer un peu plus en détails les règles du jeu, afin que vous ayez toutes les cartes en main pour faire prospérer votre village !
+
+En début de partie, votre village est composé de tous les types de villageoises, à savoir :
+
+- Deux bucheronnes, qui ramassent un bois par tour où elles travaillent
+- Deux mineuses, qui ramassent un minerai ou transforment un minerai à l'usine (si vous en possédez une) par tour où elles travaillent
+- Deux jardinières, qui ramassent une ressource parmi tous les autres types (courge - poire - blé - orties - lavande - plante magique) par tour où elles travaillent 
+- Deux botanistes, qui concoctent et utilisent les potions
+- Une guérisseuse, qui peut faire remonter les points de vie de ses compatriotes
+- Une occultiste, qui selon une probabilité aléatoire peut lancer un sort sur l'une de ses compatriotes qui la tuera immédiatement 
+- Une combattante, qui se sacrifiera pour le village en cas d'attaque du Méchenchon. Plus elle a un bon niveau de combat, et moins les dégats du dragon seront importants
+- Une cuisinière, qui prépare le repas qui remontera également les points de vie ainsi que le moral de tout le village
+
+
+                  _(_)_                          wWWWw   _
+      @@@@       (_)@(_)   vVVVv     _     @@@@  (___) _(_)_
+     @@()@@ wWWWw  (_)\    (___)   _(_)_  @@()@@   Y  (_)@(_)
+      @@@@  (___)     `|/    Y    (_)@(_)  @@@@   \|/   (_)\
+       /      Y       \|    \|/    /(_)    \|      |/      |
+    \ |     \ |/       | / \ | /  \|/       |/    \|      \|/
+    \\|//   \\|///  \\\|//\\\|/// \|///  \\\|//  \\|//  \\\|// 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+Au cours du journée, vous pouvez effectuer 5 actions. Une fois réalisées, il y a une probabilité que le dragon Méchenchon attaque votre village.
+Si vos combattantes sont de niveau 3, rien ne se passe hormis le sacrifice de l'une d'entre elle.
+Si elles sont de niveau 2, il pillera la moitié de votre stock et tous vos bâtiments reviendront au niveau 1.
+Si elles sont de niveau 1, il pillera tout le stock et détruiera tous vos bâtiments !
+Après cela, vos villeagoises mangeront et dormiront (sauf une qui montera la garde) ce qui augmentera le moral et les points de vie.
+
+
+                  _(_)_                          wWWWw   _
+      @@@@       (_)@(_)   vVVVv     _     @@@@  (___) _(_)_
+     @@()@@ wWWWw  (_)\    (___)   _(_)_  @@()@@   Y  (_)@(_)
+      @@@@  (___)     `|/    Y    (_)@(_)  @@@@   \|/   (_)\
+       /      Y       \|    \|/    /(_)    \|      |/      |
+    \ |     \ |/       | / \ | /  \|/       |/    \|      \|/
+    \\|//   \\|///  \\\|//\\\|/// \|///  \\\|//  \\|//  \\\|// 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+Il existe 5 types d'actions à réaliser :
+- "Laisser le village travailler" vous permettra de renflouer votre stock grâce au dur labeur des ouvrières.
+- "Soigner les troupes" remontera les points de vie des villageoises grâce à des potions de soin ou au pouvoir des guérisseuses.
+- "Faire appel aux sorcières" vous permettra de concocter la potion de votre choix (à condition d'avoir les ressources nécessaires) ou de les utiliser.
+- "Entraîner les combattantes" vous permettra d'augmenter le niveau de combat de deux combattantes de même niveau.
+- "Construire ou améliorer un bâtiment" vous permettra de faire exactement ce qu'annonce son nom, toujours à condition d'avoir les bonnes ressources à disposition.
+
+                  _(_)_                          wWWWw   _
+      @@@@       (_)@(_)   vVVVv     _     @@@@  (___) _(_)_
+     @@()@@ wWWWw  (_)\    (___)   _(_)_  @@()@@   Y  (_)@(_)
+      @@@@  (___)     `|/    Y    (_)@(_)  @@@@   \|/   (_)\
+       /      Y       \|    \|/    /(_)    \|      |/      |
+    \ |     \ |/       | / \ | /  \|/       |/    \|      \|/
+    \\|//   \\|///  \\\|//\\\|/// \|///  \\\|//  \\|//  \\\|// 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+
+Le but du jeu est simplement de faire prospérer le village en évitant le Game Over. Ce dernier surviendra si :
+- L'une des villageoise a le moral à 0. Elle se suicidera de malheur et toutes ses soeurs la suivront :(
+- Toutes les villageoises sont à moins de 25 points de moral. Une fois de plus ça partira en suicide collectif 
+- Il n'y a plus de botaniste dans le village. Élément essentiel de la communauté, son absence provequera devinez quoi : un suicide collectif
+- Le Méchenchon attaque votre village et il n'y a aucune combattante pour défendre les villageoises
+
+
+
+     
+
+                                        ____                                                           __
+                                       / __ )____  ____     _________  __  ___________ _____ ____     / /
+                                      / __  / __ \/ __ \   / ___/ __ \/ / / / ___/ __ `/ __ `/ _ \   / / 
+                                     / /_/ / /_/ / / / /  / /__/ /_/ / /_/ / /  / /_/ / /_/ /  __/  /_/  
+                                    /_____/\____/_/ /_/   \___/\____/\__,_/_/   \__,_/\__, /\___/  (_)   
+                                                                                     /____/              
+
+                                                                                                       
+(merci à Alexandra de nous avoir conseillé cette super musique <3333)
+(merci à Thibaut d'être bogoss <3333)

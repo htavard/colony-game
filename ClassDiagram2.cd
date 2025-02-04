@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TestGit.Batiment">
+    <Position X="25.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQBAAAAgCAABAAAIgAAgEAMAACAAAA=</HashCode>
+      <FileName>Batiment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestGit.Botaniste">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Botaniste.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestGit.Bucheronne">
+    <Position X="12.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAACAAA=</HashCode>
+      <FileName>Bucheronne.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestGit.Combattante">
+    <Position X="21" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAEAAAAAAACBAA=</HashCode>
+      <FileName>Combattante.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestGit.Coordinatrice">
+    <Position X="19.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Coordinatrice.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestGit.Cuisiniere">
+    <Position X="17.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Cuisiniere.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestGit.Game">
+    <Position X="34.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAACBAkIAAQAAAMEBAIAAAAIIAAAAAAAIAQAQ=</HashCode>
+      <FileName>Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestGit.Grille">
+    <Position X="36" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQACAAAAABABABoAAEBAAAAIAAAAAAhAEAAAAAQ=</HashCode>
+      <FileName>Grille.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestGit.Guerisseuse">
+    <Position X="9.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Guerisseuse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestGit.Jardiniere">
+    <Position X="14.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAIAAACAAQ=</HashCode>
+      <FileName>Jardiniere.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestGit.Menu">
+    <Position X="37.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAACAAAAAAAIAAAAAAAQAAAAAAAAAAIAEAAAAABEI=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestGit.Mineuse">
+    <Position X="9.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAACAAA=</HashCode>
+      <FileName>Mineuse.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestGit.Occultiste">
+    <Position X="7" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Occultiste.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestGit.Ouvriere">
+    <Position X="12.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAACAAA=</HashCode>
+      <FileName>Ouvriere.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestGit.Program">
+    <Position X="40.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestGit.Ressource">
+    <Position X="28.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAFAAAAAAAABAAAAgAAAAAIAAAAAAA=</HashCode>
+      <FileName>Ressource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestGit.Sorciere">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Sorciere.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestGit.Stock">
+    <Position X="30.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAIAAQCAAAJEAAAAABYAAAAAAAAEARAEAAAAAAA=</HashCode>
+      <FileName>Stock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestGit.Structure">
+    <Position X="27" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAKQAgAEAAAAAAAAAAAAAAAAAEAAYgQAAAA=</HashCode>
+      <FileName>Structure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestGit.Villageoise">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAABAAAgAAAACAAAAAAAAAABCAAAgABgAAAABACIQQ=</HashCode>
+      <FileName>Villageoise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TestGit.Village">
+    <Position X="25.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAIAAAAAAAAIAAEAGEIAACAAAAAAAAAAAAAAAQBgAA=</HashCode>
+      <FileName>Village.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
