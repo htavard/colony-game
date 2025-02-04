@@ -35,3 +35,4 @@ C:\Perso\ENSC\colony-game\bin\Release\net8.0\assets\sprites\potionsUtilise.txt
 C:\Perso\ENSC\colony-game\bin\Release\net8.0\assets\sprites\purifie.txt
 C:\Perso\ENSC\colony-game\bin\Release\net8.0\assets\sprites\reglesJeu.txt
 C:\Perso\ENSC\colony-game\bin\Release\net8.0\assets\sprites\startscreen.txt
+C:\Perso\ENSC\colony-game\obj\Release\net8.0\colony-game.sourcelink.json
